@@ -97,7 +97,7 @@ creative_commons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Mist
+scheme: Pisces
 #scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
@@ -163,7 +163,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: source/images/avator.png
+  url: /images/avator.png
   # If true, the avatar will be dispalyed in circle.
   rounded: false
   # If true, the avatar will be rotated with the cursor.
